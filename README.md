@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning: Python
 - 💬 Ask me about: Power Bi
 - 😄 Pronouns: He/him
+- Contact: quinterocarlos18.08@gmail.com
 <hr>
 <h3 align = center>Some languages and Tools Learned</h3>
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b504c2b2-d769-4d88-970f-23f2298ea989" />
